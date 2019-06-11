@@ -8,7 +8,6 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
 # Inherit some common COSP stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
-TARGET_INCLUDE_STOCK_ARCORE := true
 $(call inherit-product, vendor/cosp/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
