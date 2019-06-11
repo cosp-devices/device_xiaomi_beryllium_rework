@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "cosp-devices/device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "pie",
+    "remote": "github"
+  },
+  {
+    "repository": "PixelExperience-Devices/kernel_xiaomi_beryllium",
+    "target_path": "kernel/xiaomi/beryllium",
+    "branch": "pie",
+    "remote": "github"
+  },
+  {
+    "repository": "PixelExperience-Devices/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "pie",
+    "remote": "github"
+  }
+]
